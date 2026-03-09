@@ -74,7 +74,7 @@ export default function Header() {
       >
         <Link to="/" className="flex items-center gap-2 shrink-0">
           <div className="w-8 h-8 rounded-lg bg-accent flex items-center justify-center font-heading font-bold text-sm text-accent-foreground">AR</div>
-          <span className="font-heading text-lg font-bold text-primary-foreground">AR Computer</span>
+          <span className="font-heading text-lg font-bold text-primary-foreground">Global Import</span>
         </Link>
 
         <div className="flex items-center">
