@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 rounded-lg bg-accent flex items-center justify-center font-heading font-bold text-sm text-accent-foreground">AR</div>
-              <span className="font-heading text-lg font-bold">AR Computer</span>
+              <span className="font-heading text-lg font-bold">Global Import</span>
             </div>
             <p className="text-sm text-background/60 mb-4">Your one-stop destination for computers, phones, and electronic accessories at the best prices.</p>
             <div className="flex gap-3">
@@ -48,14 +48,14 @@ export default function Footer() {
               <li><Link to="/privacy" className="hover:text-accent transition-colors">Privacy Policy</Link></li>
               <li><Link to="/terms" className="hover:text-accent transition-colors">Terms & Conditions</Link></li>
               <li><Link to="/contact" className="hover:text-accent transition-colors">Help Center</Link></li>
-              <li><span className="text-background/40">support@arcomputer.com</span></li>
+              <li><span className="text-background/40">support@globalimport.com</span></li>
               <li><span className="text-background/40">+91 1800-123-4567</span></li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-background/10 mt-8 pt-6 text-center text-xs text-background/40">
-          © 2026 AR Computer Electronics Store. All rights reserved.
+          © 2026 Global Import Electronics Store. All rights reserved.
         </div>
       </div>
     </footer>
