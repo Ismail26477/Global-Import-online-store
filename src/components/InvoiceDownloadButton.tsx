@@ -18,7 +18,7 @@ function generateInvoiceHTML(order: Order): string {
     <body style="font-family:Arial,sans-serif;max-width:700px;margin:0 auto;padding:40px 20px;">
       <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:30px;">
         <div>
-          <h1 style="margin:0;font-size:28px;color:#2563eb;">AR Computer</h1>
+          <h1 style="margin:0;font-size:28px;color:#2563eb;">Global Import</h1>
           <p style="margin:4px 0 0;color:#666;font-size:12px;">Your Trusted Electronics Store</p>
         </div>
         <div style="text-align:right;">
@@ -61,8 +61,8 @@ function generateInvoiceHTML(order: Order): string {
       </div>
 
       <div style="text-align:center;padding-top:20px;border-top:1px solid #eee;">
-        <p style="color:#666;font-size:11px;">Thank you for shopping with AR Computer!</p>
-        <p style="color:#999;font-size:10px;">support@arcomputer.com | www.arcomputer.com</p>
+        <p style="color:#666;font-size:11px;">Thank you for shopping with Global Import!</p>
+        <p style="color:#999;font-size:10px;">support@globalimport.com | www.globalimport.com</p>
       </div>
     </body>
     </html>
